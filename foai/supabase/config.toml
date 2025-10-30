@@ -1,0 +1,4 @@
+project_id = "hegbnmwedjtjoiatrsfk"
+
+[functions.solve-equation]
+verify_jwt = true
