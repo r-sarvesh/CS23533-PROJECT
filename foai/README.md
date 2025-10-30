@@ -1,5 +1,3 @@
-
-```markdown
 # Handwritten Math Solver using AI
 
 ## Overview
@@ -41,7 +39,7 @@ Refer to the “System_Architecture.png” diagram in the repository for visuali
 
 ## Project Structure
 
-```
+
 
 Handwritten-Math-Solver/
 │
